@@ -1,11 +1,36 @@
 .space-beetween{
 
-    margin-top: 80px !important;
-    margin-bottom: 80px !important;
+    margin-top: 90px !important;
+    margin-bottom: 90px !important;
 }
 
 .bg-color{
 
     background-color: #001F3F;
     
+}
+
+.parents{
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    margin-top: 15px;
+}
+.img{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.nav-logo{
+    width: 200px;
+}
+
+.display{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
